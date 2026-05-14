@@ -3,7 +3,7 @@ name: Notify Subscribers on New Notification
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - 'data/notifications.json'
       - 'data/events.json'
@@ -18,12 +18,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.1.7
         with:
           fetch-depth: 0 # Full history for git push
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v4.0.3
         with:
           node-version: '20'
 
