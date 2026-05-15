@@ -729,14 +729,6 @@
     </div>
   </div>
 
-  <div class="gallery-grid">
-    <div class="gallery-footer">
-      <a class="drive-btn" href="https://drive.google.com/drive/folders/1rMMRmZjt2ddpokbBkVRF9oGXeKedt4hB?usp=drive_link" target="_blank" rel="noopener">
-        <i class="fa-brands fa-google-drive"></i> View Full Gallery on Drive
-      </a>
-    </div>
-  </div>
-
 </main>
 
 <!-- ════ FOOTER ════ -->
@@ -831,8 +823,7 @@ document.addEventListener('DOMContentLoaded', () => {
           const card = document.createElement('div');
           card.className = 'gallery-card';
           
-          const imageSource = item.localSrc ? item.localSrc : item.url;
-          const linkDestination = item.url ? item.url : item.localSrc;
+          const imageSource = item.src;
           
           card.innerHTML = `
             <img src="${imageSource}" alt="${item.alt}" class="gallery-img" loading="lazy" onerror="this.src='assets/images/gallery/pic.jpg'"/>
