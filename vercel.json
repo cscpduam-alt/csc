@@ -1,3 +1,10 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://csc.pduam.dpdns.org/$1",
+      "permanent": true
+    }
+  ]
 }
