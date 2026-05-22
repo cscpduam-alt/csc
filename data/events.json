@@ -2,17 +2,19 @@
   {
     "id": "hands-on-workshop-ai-ml-2026",
     "title": "HANDS ON WORKSHOP ON AI/ML",
+    "category": "other",
     "date": "2026-05-16",
     "displayDate": "May 16, 2026",
     "time": "10:00 AM",
     "location": "CSC Lab, PDUAM Amjonga",
     "description": "The Department of Computer Science, PDUAM Amjonga is organizing a hands-on workshop on AI/ML. Topics covered include Data Handling, Machine Learning Algorithms, Data Visualisation, and Deep Learning.",
     "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/2026-05-22T16-43-11-175Z-yaaezr2st-aGFuZHMtb24td29ya3No.webp",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "launch-ceremony-cs-website",
     "title": "Launch Ceremony of the Department of Computer Science, PDUAM Amjonga Website",
+    "category": "other",
     "date": "2025-08-28",
     "displayDate": "28th August, 2025",
     "time": "9:00 AM",
@@ -24,6 +26,7 @@
   {
     "id": "lecture-series-iot-healthcare",
     "title": "Lecture Series on IoT in Healthcare",
+    "category": "other",
     "date": "2025-09-11",
     "displayDate": "11th September, 2025",
     "time": "10:00 AM",
@@ -35,6 +38,7 @@
   {
     "id": "district-level-coding-contest-2025",
     "title": "District Level Coding Contest (Goalpara District)",
+    "category": "other",
     "date": "2025-09-11",
     "displayDate": "11th September, 2025",
     "time": "12:15 PM",
@@ -46,6 +50,7 @@
   {
     "id": "edited-book-research-articles",
     "title": "Edited Book of Research Articles",
+    "category": "other",
     "date": "2025-10-29",
     "displayDate": "29th October, 2025",
     "time": "11:00 AM",
@@ -57,6 +62,7 @@
   {
     "id": "awareness-program-future-scope",
     "title": "Awareness Program – “Computer Science and its Future Scope”",
+    "category": "other",
     "date": "2022-06-24",
     "displayDate": "24 June 2022",
     "time": "10:00 AM",
@@ -68,6 +74,7 @@
   {
     "id": "book-inauguration-college-cs",
     "title": "Book Inauguration Program – “College Computer Science”",
+    "category": "other",
     "date": "2022-01-01",
     "displayDate": "2022",
     "time": "10:00 AM",
@@ -79,6 +86,7 @@
   {
     "id": "industry-talks-corporate-sector",
     "title": "Industry Talks on Computer Science in Corporate Sector",
+    "category": "other",
     "date": "2022-10-22",
     "displayDate": "22nd October, 2022",
     "time": "10:00 AM",
@@ -90,6 +98,7 @@
   {
     "id": "lecture-series-career-building",
     "title": "Lecture Series – “Importance of Computer Learning and Computer Science in Career Building”",
+    "category": "other",
     "date": "2019-06-27",
     "displayDate": "27 June 2019",
     "time": "10:00 AM",
@@ -101,6 +110,7 @@
   {
     "id": "talk-understanding-statistics",
     "title": "Talk – “Understanding Statistics”",
+    "category": "other",
     "date": "2018-10-06",
     "displayDate": "6 October 2018",
     "time": "10:00 AM",
@@ -112,6 +122,7 @@
   {
     "id": "national-level-equiz-2020",
     "title": "National Level e-Quiz – “Advances in Computer Science and Information Technology”",
+    "category": "other",
     "date": "2020-07-11",
     "displayDate": "11–12 July 2020",
     "time": "10:00 AM",
@@ -123,6 +134,7 @@
   {
     "id": "awareness-program-coronavirus",
     "title": "Awareness Program – “Corona Virus”",
+    "category": "other",
     "date": "2020-03-19",
     "displayDate": "19 March 2020",
     "time": "10:00 AM",
@@ -134,6 +146,7 @@
   {
     "id": "field-trip-chanddubi",
     "title": "Field Trip – Chanddubi",
+    "category": "other",
     "date": "2020-12-28",
     "displayDate": "28 December 2020",
     "time": "10:00 AM",
@@ -145,6 +158,7 @@
   {
     "id": "field-trip-ukiam",
     "title": "Field Trip – Ukiam",
+    "category": "other",
     "date": "2021-12-23",
     "displayDate": "23 December 2021",
     "time": "10:00 AM",
@@ -156,6 +170,7 @@
   {
     "id": "cultural-rally-annual-week",
     "title": "Cultural Rally – Annual College Week",
+    "category": "other",
     "date": "2020-02-18",
     "displayDate": "18 February 2020 & 12 September 2018",
     "time": "10:00 AM",
@@ -167,6 +182,7 @@
   {
     "id": "mou-dudhnoi-college",
     "title": "MoU Signed – With Dudhnoi College",
+    "category": "other",
     "date": "2022-10-14",
     "displayDate": "14 October 2022",
     "time": "10:00 AM",
@@ -178,6 +194,7 @@
   {
     "id": "mou-rangjuli-school",
     "title": "MoU Signed – With Rangjuli Higher Secondary School",
+    "category": "other",
     "date": "2023-05-20",
     "displayDate": "20 May 2023",
     "time": "10:00 AM",
@@ -189,6 +206,7 @@
   {
     "id": "faculty-exchange-dudhnoi",
     "title": "Faculty Exchange Program – With Dudhnoi College",
+    "category": "other",
     "date": "2023-01-01",
     "displayDate": "2023",
     "time": "10:00 AM",
@@ -200,6 +218,7 @@
   {
     "id": "lecture-series-higher-studies",
     "title": "Lecture Series – “Higher Studies Options in Computer Science”",
+    "category": "other",
     "date": "2022-04-22",
     "displayDate": "22 April 2022",
     "time": "10:00 AM",
@@ -211,6 +230,7 @@
   {
     "id": "lab-visit-amjonga-school",
     "title": "Laboratory Visit – Amjonga High School",
+    "category": "other",
     "date": "2023-05-16",
     "displayDate": "16 May 2023",
     "time": "10:00 AM",
@@ -222,6 +242,7 @@
   {
     "id": "cert-course-computer-apps",
     "title": "Inauguration of Certificate Course – “30 Hours Certificate Course in Computer Applications”",
+    "category": "other",
     "date": "2023-04-17",
     "displayDate": "17–28 April 2023",
     "time": "10:00 AM",
@@ -233,6 +254,7 @@
   {
     "id": "dept-library-inauguration",
     "title": "Departmental Library Inauguration",
+    "category": "other",
     "date": "2021-12-06",
     "displayDate": "6 December 2021",
     "time": "10:00 AM",
