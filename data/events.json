@@ -1,215 +1,215 @@
 [
-    {
-        "id": "hands-on-workshop-ai-ml-2026",
-        "title": "HANDS ON WORKSHOP ON AI/ML",
-        "date": "2026-05-16",
-        "displayDate": "16th May, 2026",
-        "time": "10:00 AM",
-        "location": "CSC Lab, PDUAM Amjonga",
-        "description": "The Department of Computer Science, PDUAM Amjonga is organizing a hands-on workshop on AI/ML. Topics covered include Data Handling, Machine Learning Algorithms, Data Visualisation, and Deep Learning.",
-        "image": "assets/files/notifications/poster-hands-on-workshop-on-ai-ml-2026.jpg",
-        "isNew": true
-    },
-    {
-        "id":  "launch-ceremony-cs-website",
-        "title":  "Launch Ceremony of the Department of Computer Science, PDUAM Amjonga Website",
-        "date":  "2025-08-28",
-        "displayDate":  "28th August, 2025",
-        "time":  "9:00 AM",
-        "location":  "Smart Classroom-2, PDUAM Amjonga",
-        "description":  "Join us for the official unveiling of our Department's website.",
-        "chiefGuest":  "Dr. Navajyoti Sarmah, Principal, PDUAM Amjonga",
-        "image":  "assets/images/events/launch_ceremony.jpg",
-        "isNew":  false
-    },
-    {
-        "id":  "lecture-series-iot-healthcare",
-        "title":  "Lecture Series on IoT in Healthcare",
-        "date":  "2025-09-11",
-        "displayDate":  "11th September, 2025",
-        "time":  "10:00 AM",
-        "location":  "Department of Computer Science, PDUAM Amjonga",
-        "description":  "Join us for an interactive lecture series on the latest trends in IoT in Healthcare. The event will feature a lecture and a hands-on coding session.",
-        "image":  "assets/images/events/lecture_series_on_IOT.jpg",
-        "isNew":  false
-    },
-    {
-        "id":  "district-level-coding-contest-2025",
-        "title":  "District Level Coding Contest (Goalpara District)",
-        "date":  "2025-09-11",
-        "displayDate":  "11th September, 2025",
-        "time":  "12:15 PM",
-        "location":  "Computer Lab, PDUAM Amjonga",
-        "description":  "District Level Online Coding Competition – 2025. The competition will provide a platform to test logical thinking, programming ability, and problem-solving skills.",
-        "image":  "assets/images/events/Coding.jpg",
-        "links":  [
-                      {
-                          "label":  "WhatsApp Group",
-                          "url":  "https://chat.whatsapp.com/F1r4ZgS0H55ClVsekP6ox5?mode=ems_wa_c"
-                      },
-                      {
-                          "label":  "Registration Link",
-                          "url":  "https://forms.gle/fVAmsEV9UioDzacE8"
-                      }
-                  ],
-        "isNew":  false
-    },
-    {
-        "id":  "edited-book-research-articles",
-        "title":  "Edited Book of Research Articles",
-        "date":  "2025-10-29",
-        "displayDate":  "29th October, 2025",
-        "time":  "11:00 AM",
-        "location":  "PDUAM Amjonga",
-        "description":  "The department is delighted to announce the first edition of our international edited volume: AI and ICT in Multidisciplinary Research. Publisher: International Publisher with ISBN \u0026 Crossref DOI.",
-        "image":  "assets/images/events/www.jpg",
-        "isNew":  false
-    },
-    {
-        "id":  "awareness-program-future-scope",
-        "title":  "Awareness Program – “Computer Science and its Future Scope”",
-        "date":  "2022-06-24",
-        "displayDate":  "24 June 2022",
-        "location":  "Rangjuli Higher Secondary School",
-        "description":  "Venue: Rangjuli Higher Secondary School. Resource Persons: Dr Sisir Kumar Rajbongshi, Subhomoy Dey, Kshirod Sarmah.",
-        "isNew":  false
-    },
-    {
-        "id":  "book-inauguration-college-cs",
-        "title":  "Book Inauguration Program – “College Computer Science”",
-        "date":  "2022-01-01",
-        "displayDate":  "2022",
-        "location":  "Smart Class Room-1, PDUAM Amjonga",
-        "description":  "Author: Dr Kshirod Sarmah.",
-        "isNew":  false
-    },
-    {
-        "id":  "industry-talks-corporate-sector",
-        "title":  "Industry Talks on Computer Science in Corporate Sector",
-        "date":  "2022-10-22",
-        "displayDate":  "22nd October, 2022",
-        "time":  "10:00 AM",
-        "location":  "Department of Computer Science, PDUAM Amjonga",
-        "description":  "An industry talk by Mr. Sudeep Dey, Lead Data Engineer at Lowe's Technology (U.S.A.), discussing Computer Science in the Corporate Sector. Organized by the Department of Computer Science, PDUAM Amjonga, under the National Higher Education Mission.",
-        "image":  "assets/images/events/industry_talk_computer_science.jpg",
-        "isNew":  false
-    },
-    {
-        "id":  "lecture-series-career-building",
-        "title":  "Lecture Series – “Importance of Computer Learning and Computer Science in Career Building”",
-        "date":  "2019-06-27",
-        "displayDate":  "27 June 2019",
-        "location":  "PDUAM Amjonga",
-        "description":  "Speaker: Dr Manoj Deka, Assistant Professor, Bodoland University.",
-        "image":  "assets/images/events/lecture_series_on_carrer.jpg",
-        "isNew":  false
-    },
-    {
-        "id":  "talk-understanding-statistics",
-        "title":  "Talk – “Understanding Statistics”",
-        "date":  "2018-10-06",
-        "displayDate":  "6 October 2018",
-        "location":  "PDUAM Amjonga",
-        "description":  "Speaker: Prof. Kishore Sinha, Ex-Dean, Birsa Agricultural University.",
-        "isNew":  false
-    },
-    {
-        "id":  "national-level-equiz-2020",
-        "title":  "National Level e-Quiz – “Advances in Computer Science and Information Technology”",
-        "date":  "2020-07-11",
-        "displayDate":  "11–12 July 2020",
-        "location":  "Online",
-        "image":  "assets/images/events/e-quiz-2020.jpg",
-        "isNew":  false
-    },
-    {
-        "id":  "awareness-program-coronavirus",
-        "title":  "Awareness Program – “Corona Virus”",
-        "date":  "2020-03-19",
-        "displayDate":  "19 March 2020",
-        "location":  "National Highway 37",
-        "description":  "Awareness drive on the highway regarding COVID-19.",
-        "isNew":  false
-    },
-    {
-        "id":  "field-trip-chanddubi",
-        "title":  "Field Trip – Chanddubi",
-        "date":  "2020-12-28",
-        "displayDate":  "28 December 2020",
-        "location":  "Chanddubi Lake, Assam",
-        "isNew":  false
-    },
-    {
-        "id":  "field-trip-ukiam",
-        "title":  "Field Trip – Ukiam",
-        "date":  "2021-12-23",
-        "displayDate":  "23 December 2021",
-        "location":  "Ukiam, Assam",
-        "isNew":  false
-    },
-    {
-        "id":  "cultural-rally-annual-week",
-        "title":  "Cultural Rally – Annual College Week",
-        "date":  "2020-02-18",
-        "displayDate":  "18 February 2020 \u0026 12 September 2018",
-        "location":  "PDUAM Amjonga",
-        "isNew":  false
-    },
-    {
-        "id":  "mou-dudhnoi-college",
-        "title":  "MoU Signed – With Dudhnoi College",
-        "date":  "2022-10-14",
-        "displayDate":  "14 October 2022",
-        "location":  "Dudhnoi College",
-        "isNew":  false
-    },
-    {
-        "id":  "mou-rangjuli-school",
-        "title":  "MoU Signed – With Rangjuli Higher Secondary School",
-        "date":  "2023-05-20",
-        "displayDate":  "20 May 2023",
-        "location":  "Rangjuli Higher Secondary School",
-        "isNew":  false
-    },
-    {
-        "id":  "faculty-exchange-dudhnoi",
-        "title":  "Faculty Exchange Program – With Dudhnoi College",
-        "date":  "2023-01-01",
-        "displayDate":  "2023",
-        "location":  "Dudhnoi College",
-        "isNew":  false
-    },
-    {
-        "id":  "lecture-series-higher-studies",
-        "title":  "Lecture Series – “Higher Studies Options in Computer Science”",
-        "date":  "2022-04-22",
-        "displayDate":  "22 April 2022",
-        "location":  "PDUAM Amjonga",
-        "description":  "Speaker: Dr Rubul Kr Bania, NEHU.",
-        "isNew":  false
-    },
-    {
-        "id":  "lab-visit-amjonga-school",
-        "title":  "Laboratory Visit – Amjonga High School",
-        "date":  "2023-05-16",
-        "displayDate":  "16 May 2023",
-        "location":  "Amjonga High School",
-        "isNew":  false
-    },
-    {
-        "id":  "cert-course-computer-apps",
-        "title":  "Inauguration of Certificate Course – “30 Hours Certificate Course in Computer Applications”",
-        "date":  "2023-04-17",
-        "displayDate":  "17–28 April 2023",
-        "location":  "PDUAM Amjonga",
-        "isNew":  false
-    },
-    {
-        "id":  "dept-library-inauguration",
-        "title":  "Departmental Library Inauguration",
-        "date":  "2021-12-06",
-        "displayDate":  "6 December 2021",
-        "location":  "Department of Computer Science, PDUAM Amjonga",
-        "isNew":  false
-    }
+  {
+    "id": "hands-on-workshop-ai-ml-2026",
+    "title": "HANDS ON WORKSHOP ON AI/ML",
+    "date": "2026-05-16",
+    "displayDate": "16th May, 2026",
+    "time": "10:00 AM",
+    "location": "CSC Lab, PDUAM Amjonga",
+    "description": "The Department of Computer Science, PDUAM Amjonga is organizing a hands-on workshop on AI/ML. Topics covered include Data Handling, Machine Learning Algorithms, Data Visualisation, and Deep Learning.",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/1779468191175-xa6pwb.webp",
+    "isNew": true
+  },
+  {
+    "id": "launch-ceremony-cs-website",
+    "title": "Launch Ceremony of the Department of Computer Science, PDUAM Amjonga Website",
+    "date": "2025-08-28",
+    "displayDate": "28th August, 2025",
+    "time": "9:00 AM",
+    "location": "Smart Classroom-2, PDUAM Amjonga",
+    "description": "Join us for the official unveiling of our Department's website.",
+    "chiefGuest": "Dr. Navajyoti Sarmah, Principal, PDUAM Amjonga",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/1779468193400-a5nhs0.webp",
+    "isNew": false
+  },
+  {
+    "id": "lecture-series-iot-healthcare",
+    "title": "Lecture Series on IoT in Healthcare",
+    "date": "2025-09-11",
+    "displayDate": "11th September, 2025",
+    "time": "10:00 AM",
+    "location": "Department of Computer Science, PDUAM Amjonga",
+    "description": "Join us for an interactive lecture series on the latest trends in IoT in Healthcare. The event will feature a lecture and a hands-on coding session.",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/1779468195011-v4m3q8.webp",
+    "isNew": false
+  },
+  {
+    "id": "district-level-coding-contest-2025",
+    "title": "District Level Coding Contest (Goalpara District)",
+    "date": "2025-09-11",
+    "displayDate": "11th September, 2025",
+    "time": "12:15 PM",
+    "location": "Computer Lab, PDUAM Amjonga",
+    "description": "District Level Online Coding Competition – 2025. The competition will provide a platform to test logical thinking, programming ability, and problem-solving skills.",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/1779468197242-2fxynh.webp",
+    "links": [
+      {
+        "label": "WhatsApp Group",
+        "url": "https://chat.whatsapp.com/F1r4ZgS0H55ClVsekP6ox5?mode=ems_wa_c"
+      },
+      {
+        "label": "Registration Link",
+        "url": "https://forms.gle/fVAmsEV9UioDzacE8"
+      }
+    ],
+    "isNew": false
+  },
+  {
+    "id": "edited-book-research-articles",
+    "title": "Edited Book of Research Articles",
+    "date": "2025-10-29",
+    "displayDate": "29th October, 2025",
+    "time": "11:00 AM",
+    "location": "PDUAM Amjonga",
+    "description": "The department is delighted to announce the first edition of our international edited volume: AI and ICT in Multidisciplinary Research. Publisher: International Publisher with ISBN & Crossref DOI.",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/1779468199919-wes4y8.webp",
+    "isNew": false
+  },
+  {
+    "id": "awareness-program-future-scope",
+    "title": "Awareness Program – “Computer Science and its Future Scope”",
+    "date": "2022-06-24",
+    "displayDate": "24 June 2022",
+    "location": "Rangjuli Higher Secondary School",
+    "description": "Venue: Rangjuli Higher Secondary School. Resource Persons: Dr Sisir Kumar Rajbongshi, Subhomoy Dey, Kshirod Sarmah.",
+    "isNew": false
+  },
+  {
+    "id": "book-inauguration-college-cs",
+    "title": "Book Inauguration Program – “College Computer Science”",
+    "date": "2022-01-01",
+    "displayDate": "2022",
+    "location": "Smart Class Room-1, PDUAM Amjonga",
+    "description": "Author: Dr Kshirod Sarmah.",
+    "isNew": false
+  },
+  {
+    "id": "industry-talks-corporate-sector",
+    "title": "Industry Talks on Computer Science in Corporate Sector",
+    "date": "2022-10-22",
+    "displayDate": "22nd October, 2022",
+    "time": "10:00 AM",
+    "location": "Department of Computer Science, PDUAM Amjonga",
+    "description": "An industry talk by Mr. Sudeep Dey, Lead Data Engineer at Lowe's Technology (U.S.A.), discussing Computer Science in the Corporate Sector. Organized by the Department of Computer Science, PDUAM Amjonga, under the National Higher Education Mission.",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/1779468202242-h7tdb9.webp",
+    "isNew": false
+  },
+  {
+    "id": "lecture-series-career-building",
+    "title": "Lecture Series – “Importance of Computer Learning and Computer Science in Career Building”",
+    "date": "2019-06-27",
+    "displayDate": "27 June 2019",
+    "location": "PDUAM Amjonga",
+    "description": "Speaker: Dr Manoj Deka, Assistant Professor, Bodoland University.",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/1779468204292-xowv8m.webp",
+    "isNew": false
+  },
+  {
+    "id": "talk-understanding-statistics",
+    "title": "Talk – “Understanding Statistics”",
+    "date": "2018-10-06",
+    "displayDate": "6 October 2018",
+    "location": "PDUAM Amjonga",
+    "description": "Speaker: Prof. Kishore Sinha, Ex-Dean, Birsa Agricultural University.",
+    "isNew": false
+  },
+  {
+    "id": "national-level-equiz-2020",
+    "title": "National Level e-Quiz – “Advances in Computer Science and Information Technology”",
+    "date": "2020-07-11",
+    "displayDate": "11–12 July 2020",
+    "location": "Online",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/events/1779468206654-26ebpt.webp",
+    "isNew": false
+  },
+  {
+    "id": "awareness-program-coronavirus",
+    "title": "Awareness Program – “Corona Virus”",
+    "date": "2020-03-19",
+    "displayDate": "19 March 2020",
+    "location": "National Highway 37",
+    "description": "Awareness drive on the highway regarding COVID-19.",
+    "isNew": false
+  },
+  {
+    "id": "field-trip-chanddubi",
+    "title": "Field Trip – Chanddubi",
+    "date": "2020-12-28",
+    "displayDate": "28 December 2020",
+    "location": "Chanddubi Lake, Assam",
+    "isNew": false
+  },
+  {
+    "id": "field-trip-ukiam",
+    "title": "Field Trip – Ukiam",
+    "date": "2021-12-23",
+    "displayDate": "23 December 2021",
+    "location": "Ukiam, Assam",
+    "isNew": false
+  },
+  {
+    "id": "cultural-rally-annual-week",
+    "title": "Cultural Rally – Annual College Week",
+    "date": "2020-02-18",
+    "displayDate": "18 February 2020 & 12 September 2018",
+    "location": "PDUAM Amjonga",
+    "isNew": false
+  },
+  {
+    "id": "mou-dudhnoi-college",
+    "title": "MoU Signed – With Dudhnoi College",
+    "date": "2022-10-14",
+    "displayDate": "14 October 2022",
+    "location": "Dudhnoi College",
+    "isNew": false
+  },
+  {
+    "id": "mou-rangjuli-school",
+    "title": "MoU Signed – With Rangjuli Higher Secondary School",
+    "date": "2023-05-20",
+    "displayDate": "20 May 2023",
+    "location": "Rangjuli Higher Secondary School",
+    "isNew": false
+  },
+  {
+    "id": "faculty-exchange-dudhnoi",
+    "title": "Faculty Exchange Program – With Dudhnoi College",
+    "date": "2023-01-01",
+    "displayDate": "2023",
+    "location": "Dudhnoi College",
+    "isNew": false
+  },
+  {
+    "id": "lecture-series-higher-studies",
+    "title": "Lecture Series – “Higher Studies Options in Computer Science”",
+    "date": "2022-04-22",
+    "displayDate": "22 April 2022",
+    "location": "PDUAM Amjonga",
+    "description": "Speaker: Dr Rubul Kr Bania, NEHU.",
+    "isNew": false
+  },
+  {
+    "id": "lab-visit-amjonga-school",
+    "title": "Laboratory Visit – Amjonga High School",
+    "date": "2023-05-16",
+    "displayDate": "16 May 2023",
+    "location": "Amjonga High School",
+    "isNew": false
+  },
+  {
+    "id": "cert-course-computer-apps",
+    "title": "Inauguration of Certificate Course – “30 Hours Certificate Course in Computer Applications”",
+    "date": "2023-04-17",
+    "displayDate": "17–28 April 2023",
+    "location": "PDUAM Amjonga",
+    "isNew": false
+  },
+  {
+    "id": "dept-library-inauguration",
+    "title": "Departmental Library Inauguration",
+    "date": "2021-12-06",
+    "displayDate": "6 December 2021",
+    "location": "Department of Computer Science, PDUAM Amjonga",
+    "isNew": false
+  }
 ]
