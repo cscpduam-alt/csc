@@ -1,7 +1,7 @@
 [
   {
     "id": "hands-on-workshop-ai-ml-2026",
-    "isNew": true,
+    "isNew": false,
     "date": "2026-05-14",
     "category": "event",
     "title": "Hands-on Workshop on AI/ML",
@@ -17,11 +17,7 @@
     "title": "GU Portal Course Registration for B.Sc. 4th Semester",
     "text": "All 4th Semester students are notified to do course registration in GU portal. Note: AEC is based on 1st sem selection. DBMS is Major for major students and Minor for minor students. Number Theory is Minor for CS major students.",
     "url": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2026-05-07T00-00-00-000Z-913kqkm4f-YnNjLTR0aC1zZW0tcmVn.webp",
-    "meta": "Samarth Portal Registration",
-    "metaLink": {
-      "label": "Register Now ↗",
-      "url": "https://gauhati.samarth.edu.in/"
-    }
+    "meta": "Samarth Portal Registration"
   },
   {
     "id": "admission-open-2026-27",
@@ -31,11 +27,7 @@
     "title": "B.Sc. in Computer Science Admission 2026-27",
     "text": "Admission is now open for the session 2026-27. Candidates can apply through the Samarth Admission Portal.",
     "url": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2026-05-06T00-00-00-000Z-wx7gwlogr-YWRtaXNzaW9uLW9wZW4t.webp",
-    "meta": "Admission Registration Link",
-    "metaLink": {
-      "label": " Admission Now ↗",
-      "url": "https://assamadmission.samarth.ac.in/"
-    }
+    "meta": "Admission Registration Link"
   },
   {
     "id": "science-stream-class-routine-2026-27",
@@ -45,9 +37,8 @@
     "title": "Science Stream Class Routine  for the session 2026-27 {Even Semester}",
     "text": "View the latest class schedule here",
     "url": "routine",
-    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2026-01-10T00-00-00-000Z-il82gk24k-c2NpZW5jZS1zdHJlYW0t.webp",
-    "meta": null,
-    "metaLink": null
+    "meta": "",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2026-01-10T00-00-00-000Z-il82gk24k-c2NpZW5jZS1zdHJlYW0t.webp"
   },
   {
     "id": "bsc-cs-syllabus",
@@ -57,8 +48,7 @@
     "title": "Syllabus",
     "text": "Download updated syllabus for all semesters",
     "url": "https://drive.google.com/drive/folders/14CjyuJb6DAtywFV9AIpFjaCYRcA6Yapg?usp=sharing",
-    "meta": null,
-    "metaLink": null
+    "meta": ""
   },
   {
     "id": "gu-holiday-list-2025",
@@ -68,8 +58,7 @@
     "title": "Holiday List",
     "text": "Holiday List — Gauhati University",
     "url": "https://gauhati.ac.in/media/notification/1734503844.pdf",
-    "meta": null,
-    "metaLink": null
+    "meta": ""
   },
   {
     "id": "call-for-book-chapter-2025",
@@ -79,9 +68,8 @@
     "title": "Call for Book Chapter",
     "text": "View the details here",
     "url": "https://drive.google.com/file/d/1TYFJniSdb9bkq3TKXDpqYt9Eh3U7VVNO/view?usp=drive_link",
-    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2025-12-01T00-00-00-000Z-ia0omrn4g-Y2FsbC1mb3ItYm9vay1j.webp",
-    "meta": null,
-    "metaLink": null
+    "meta": "",
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2025-12-01T00-00-00-000Z-ia0omrn4g-Y2FsbC1mb3ItYm9vay1j.webp"
   },
   {
     "id": "district-level-coding-contest-2025",
@@ -91,10 +79,7 @@
     "title": "Coding Contest",
     "text": "District Level Coding Contest — Details",
     "url": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2025-11-20T00-00-00-000Z-477s97n4h-ZGlzdHJpY3QtbGV2ZWwt.webp",
-    "registrationLink": "https://forms.gle/fVAmsEV9UioDzacE8",
-    "whatsappLink": "https://chat.whatsapp.com/F1r4ZgS0H55ClVsekP6ox5?mode=ems_wa_c",
-    "meta": null,
-    "metaLink": null
+    "meta": ""
   },
   {
     "id": "new-publication-multidisciplinary-research",
@@ -104,12 +89,8 @@
     "title": "New Publication",
     "text": "\"Multidisciplinary Research: Innovations in Science, Arts and Commerce\" — First Edition",
     "url": "https://cscpduam.github.io/multidisciplinary-book/",
-    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2025-11-15T00-00-00-000Z-m5qg2m7kl-bmV3LXB1YmxpY2F0aW9u.webp",
     "meta": "Deep Science Publishing (USA · UK · India · Turkey) · ISBN: 978-93-7185-157-2",
-    "metaLink": {
-      "label": "DOI ↗",
-      "url": "https://doi.org/10.70593/978-93-7185-737-6"
-    }
+    "image": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2025-11-15T00-00-00-000Z-m5qg2m7kl-bmV3LXB1YmxpY2F0aW9u.webp"
   },
   {
     "id": "notice-1st-3rd-sem-2024",
@@ -119,7 +100,6 @@
     "title": "Notice for B.Sc. 1st Semester & 3rd Semester Students",
     "text": "View Notice",
     "url": "https://cdn.jsdelivr.net/gh/cscpduam-alt/csc.pduam.cdn@main/uploads/files/notifications/2024-08-14T00-00-00-000Z-scdq6en2a-bm90aWNlLTFzdC0zcmQt.webp",
-    "meta": null,
-    "metaLink": null
+    "meta": ""
   }
 ]
