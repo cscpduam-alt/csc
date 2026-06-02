@@ -85,6 +85,9 @@ function saveSentIds(ids) {
 /* ── Fetch subscribers from Google Sheet ── */
 async function fetchSubscribers() {
   const credentials = JSON.parse(GOOGLE_SERVICE_JSON);
+  if (credentials && credentials.private_key) {
+    credentials.private_key = credentials.private_key.replace(/\\n/g, '\n');
+  }
   const auth = new google.auth.GoogleAuth({
     credentials,
     scopes: ['https://www.googleapis.com/auth/spreadsheets.readonly'],
