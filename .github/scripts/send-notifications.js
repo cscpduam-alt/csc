@@ -95,7 +95,7 @@ async function fetchSubscribers() {
     throw new Error('Invalid service account credentials: missing private_key.');
   }
 
-  credentials.private_key = credentials.private_key.replace(/\\n/g, '\n');
+  credentials.private_key = credentials.private_key.replace(/\\n/g, '\n').replace(/\r/g, '\nr');
 
   console.log('🔑  Diagnostics for private key:');
   console.log('    - Length of GOOGLE_SERVICE_JSON:', GOOGLE_SERVICE_JSON ? GOOGLE_SERVICE_JSON.length : 0);
