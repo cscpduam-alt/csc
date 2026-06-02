@@ -84,10 +84,19 @@ function saveSentIds(ids) {
 
 /* ── Fetch subscribers from Google Sheet ── */
 async function fetchSubscribers() {
-  const credentials = JSON.parse(GOOGLE_SERVICE_JSON);
-  if (credentials && credentials.private_key) {
-    credentials.private_key = credentials.private_key.replace(/\\n/g, '\n');
+  let credentials;
+  try {
+    credentials = JSON.parse(GOOGLE_SERVICE_JSON);
+  } catch (err) {
+    throw new Error('Failed to parse GOOGLE_SERVICE_JSON. Please verify it is a valid JSON string.');
   }
+
+  if (!credentials || !credentials.private_key) {
+    throw new Error('Invalid service account credentials: missing private_key.');
+  }
+
+  credentials.private_key = credentials.private_key.replace(/\\n/g, '\n');
+
   const auth = new google.auth.GoogleAuth({
     credentials,
     scopes: ['https://www.googleapis.com/auth/spreadsheets.readonly'],
