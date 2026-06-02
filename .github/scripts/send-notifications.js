@@ -97,6 +97,13 @@ async function fetchSubscribers() {
 
   credentials.private_key = credentials.private_key.replace(/\\n/g, '\n');
 
+  console.log('🔑  Diagnostics for private key:');
+  console.log('    - Length of GOOGLE_SERVICE_JSON:', GOOGLE_SERVICE_JSON ? GOOGLE_SERVICE_JSON.length : 0);
+  console.log('    - Length of private_key:', credentials.private_key ? credentials.private_key.length : 0);
+  console.log('    - Starts with header:', credentials.private_key ? credentials.private_key.startsWith('-----BEGIN PRIVATE KEY-----') : false);
+  console.log('    - Ends with footer:', credentials.private_key ? (credentials.private_key.trim().endsWith('-----END PRIVATE KEY-----')) : false);
+  console.log('    - Number of actual newlines:', credentials.private_key ? (credentials.private_key.match(/\n/g) || []).length : 0);
+
   const auth = new google.auth.GoogleAuth({
     credentials,
     scopes: ['https://www.googleapis.com/auth/spreadsheets.readonly'],
